@@ -10,7 +10,7 @@ with specific support for shapes that can be constructed with [Zometool][zometoo
 shared as a page, if you have a 'vzome-sharing' GitHub repository and you've followed the [configuration instructions][help].
 
 [pages]: https://pages.github.com/
-[source]: https://github.com/your-username-here/vzome-sharing/
+[source]: https://github.com/linusschoch/vzome-sharing/
 [vzome]: https://vzome.com/
 [zometool]: https://zometool.com
 [help]: https://vzome.github.io/vzome/sharing.html
